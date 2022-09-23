@@ -1,0 +1,33 @@
+
+
+@media only screen and (max-width: 380px){
+    .content{
+        width: 85%;
+        margin: 20px auto;
+        font-size: 14px;
+    }
+    .pricelist{
+        justify-content: center;
+    }
+    .sidetext{
+        padding-left: 20px;
+    }
+
+} 
+@media only screen and (max-width: 230px){
+    .content{
+        width: 85%;
+        margin: 20px auto;
+        font-size: 14px;
+    }
+    .pricelist{
+        justify-content: center;
+        display: block;
+    }
+    .sidetext{
+        padding-left: 40%;
+    }
+
+} 
+- Mobile: 375px
+- Desktop: 1440px

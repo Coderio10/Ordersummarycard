@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url(".././images/pattern-background-desktop.svg") #e0e8ff no-repeat;
+    width: 100%;
+}
+.content{
+	margin: 50px auto;
+	width: 350px;
+	background-color: #ffffff;
+	border-radius: 20px;
+    font-family: ;
+}
+.button{
+	width: 80%;
+	height: 40px;
+	margin: 10px 35px;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px 0px  hsl(225, 100%, 98%);
+	background-color: hsl(245, 75%, 52%);
+    font-weight: 500;
+    color: #ffffff;
+}
+h3{
+	text-align: center;
+	padding: 30px;
+	padding-bottom: 0px;
+}
+.text{
+	Font-size: 16px;
+	text-align: center;
+	padding: 20px;
+	color: hsl(224, 23%, 55%);
+}
+.img{
+	width: 100%;
+	border-top-right-radius: 20px ;
+	border-top-left-radius: 20px;
+}
+.icon{
+
+}
+.paragraph2{
+	color: hsl(224, 23%, 55%);
+	padding-bottom: 20px;
+    margin-top: 5px;
+}
+.paragraph{
+	
+	}
+.pricelist{
+	display: flex;
+	justify-content: space-around;
+    margin: 20px;
+    align-content: center;   
+}
+.pricelist ,.xn{
+	display: flex;
+}
+
+.align{
+	display: block;
+	margin-left: 10px;
+}
+.button_alt{
+	Font-size: 16px;
+	text-align: center;
+	padding: 30px;
+	padding-top: 8px;
+	color: hsl(224, 23%, 55%);
+    font-weight: 500
+}
+.sidetext{
+    padding-top: 10px;
+}
+.sidetext2{
+    color: blue;
+}
+    
+    
+    
+    
+    
+}
